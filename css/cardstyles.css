@@ -26,15 +26,6 @@
     box-sizing: border-box;
 }
 
-body {
-    height: 100%;
-    width: 100%;
-    padding: 0px;
-    margin: 0;
-    font-family: "Source Sans Pro", sans-serif;
-    -webkit-font-smoothing: antialiased;
-}
-
 .flex {
     min-height: 70vh;
     display: flex;
