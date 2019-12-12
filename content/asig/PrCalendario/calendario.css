@@ -1,4 +1,15 @@
 body{
-      font-family: Georgia, "Times New Roman",
-        Times, serif;
+    font-family: 'Lato';
+    background-color: darkslategrey;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: palegreen;
+    font-family: 'Catamaran';
+    font-weight: 800 !important;
 }
